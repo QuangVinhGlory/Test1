@@ -1,7 +1,7 @@
     let arr = [];
     let n = -1;
     while (true) {
-        let x = prompt("Mời bạn nhập các phần tử của mảng");
+        let x = prompt("Mời bạn nhập các phần tử của mảng (Nhập -1 để dừng)");
         if (x==-1) {
             break;
         }
